@@ -1,0 +1,29 @@
+#form{
+    text-align:center;
+    height:70%;
+    width: 160pt;
+    border:100pt;
+    background-color:silver;
+    padding: auto;
+    border-radius: 5pt;
+}
+
+#display{
+    text-align: right;
+}
+
+.line{
+    padding: 2pt;
+}
+
+.btn{
+    width: 32pt;
+}
+
+.btn1{
+    width: 64pt;
+}
+
+h1{
+    color:red;
+}
